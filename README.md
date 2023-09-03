@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando **ASP.NET MVC, Razor Pages e C#**
 
-- 📝 Estou desenvolvendo projetos pessoais que possam auxiliar em tarefas diárias [Sistema de cadastro](https://github.com/IvoAlve/sistema-de-cadastro)
+- 📝 Estou desenvolvendo projetos pessoais que possam auxiliar em tarefas diárias [Sistema de cadastro](https://github.com/IvoAlve/sistema-de-cadastro2)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/IvoAlve](https://github.com/IvoAlve)
 
